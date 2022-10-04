@@ -1,0 +1,72 @@
+body{
+    text-align: center;
+}
+
+.Logo{
+    margin: 0px auto 0px auto;
+}
+
+.SIP{
+    display: inline-block;
+    text-align: left;
+    border: 1.5px solid gray;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.Text-in-hr{
+    display: block;
+    text-align: center;
+}
+
+footer{
+    display: inline-block;
+    text-align: center;
+}
+
+.COU{
+    margin: 7px;
+}
+
+.PN{
+    margin: 7px;
+}
+
+.Help{
+    margin: 7px;
+}
+
+input{
+    width: 300px;
+    height: 32px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.Create-account{
+    width: 300px;
+    height: 32px;
+    background-image: linear-gradient(rgba(253, 253, 137, 0.993), rgb(255, 196, 86));
+    border: 0.5px solid gray;
+    border-radius: 2px;
+    padding: 0 auto 0 auto;
+}
+
+.Continue{
+    width: 300px;
+    height: 32px;
+    background-image: linear-gradient(rgba(253, 253, 137, 0.993), rgb(255, 196, 86));
+    border: 0.5px solid gray;
+    border-radius: 2px;
+    padding: 0 auto 0 auto;
+}
+
+.Text-in-hr{
+    display: flex;
+    text-align: center;
+    padding: 0%;
+}
+
